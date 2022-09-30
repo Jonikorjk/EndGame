@@ -12,4 +12,7 @@ sudo apt libsdl2-image-dev // Install SDL2/Image
 sudo apt libsdl2-mixer-dev // Install SDL2/Mixer
 sudo apt libsdl2-ttf-dev  // Install SDL2/Ttf
 
+Then just print in console "make" in project Directory
+
+
 Version of Ubuntu: LMS 22.04
