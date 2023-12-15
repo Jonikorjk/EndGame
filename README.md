@@ -1,18 +1,21 @@
+There is a fun game for one of your university projects without any seriousness)
+This game was written on C language with the SDL2 library
+
 Created BY:
 
-Головко Ярослав 
-Семешин Дмитрий
-Сердюков Евгений
-Ярошенко Марина - Дизайн
+Головко Ярослав - Developer
+Семешин Дмитрий - Developer
+Сердюков Евгений - Developer
+Ярошенко Марина - Designer
 
 
 Installation: 
-
+```
 sudo apt libsdl2-dev // Install SDL2
 sudo apt libsdl2-image-dev // Install SDL2/Image
 sudo apt libsdl2-mixer-dev // Install SDL2/Mixer
 sudo apt libsdl2-ttf-dev  // Install SDL2/Ttf
-
+```
 Then just print in console "make" in project Directory
 
 
